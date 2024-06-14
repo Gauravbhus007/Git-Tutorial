@@ -1,1 +1,7 @@
 utility functions for version 1
+Changes in 1st repository and Changes in first program using first git add .
+for stage mode 
+after staging they track the file see if i make changes in some file which am write not do this track or changes they eyes on using 
+git add .
+
+change for in utils for git hub push 
